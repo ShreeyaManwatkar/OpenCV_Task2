@@ -29,6 +29,7 @@ OpenCV_Task2/
 ## 📋 Requirements
 
 - Python 3.11.9
+- Mediapipe 0.10.32
 - A webcam
 
 Install dependencies:
